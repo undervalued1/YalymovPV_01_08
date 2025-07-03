@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YalymovPV_01_08", "YalymovPV_01_08.csproj", "{D3FE61AD-404A-4F1C-B403-5FDEC0ECD9CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YalymovPV_01_08_Tests", "..\YalymovPV_01_08_Tests\YalymovPV_01_08_Tests.csproj", "{34E907E7-E4EE-4E10-AE96-FF2113FD9B0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3FE61AD-404A-4F1C-B403-5FDEC0ECD9CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3FE61AD-404A-4F1C-B403-5FDEC0ECD9CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3FE61AD-404A-4F1C-B403-5FDEC0ECD9CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3FE61AD-404A-4F1C-B403-5FDEC0ECD9CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34E907E7-E4EE-4E10-AE96-FF2113FD9B0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E907E7-E4EE-4E10-AE96-FF2113FD9B0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E907E7-E4EE-4E10-AE96-FF2113FD9B0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E907E7-E4EE-4E10-AE96-FF2113FD9B0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99E16195-ACC4-4957-93B8-05F9D6A1E094}
+	EndGlobalSection
+EndGlobal
